@@ -1,0 +1,15 @@
+name="托尼·斯塔克"
+print("姓名:",end="")
+print(name)
+height=185.3
+print("身高（CM）:",end="")
+print(height)
+number=50
+print("战甲数量:",end="")
+print(number)
+debut="1963"
+print("首次登场:",end="")
+print(debut)
+actor="小罗伯特·唐尼"
+print("扮演者:",end="")
+print(actor)

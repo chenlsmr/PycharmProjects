@@ -1,0 +1,11 @@
+leader="王伦"
+print("第一任梁山首领：")
+print(leader)
+print("王伦嫉贤妒能，被林冲杀害")
+leader="晁盖"
+print("第二任梁山首领：")
+print(leader)
+leader="宋江"
+print("第三任梁山首领：")
+print(leader)
+print("朝廷诏安赐毒酒，自此再无梁山")
